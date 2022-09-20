@@ -2,7 +2,30 @@
 
 ## Description
 
+## source schema in mysql and run seed for the database
 
+
+https://user-images.githubusercontent.com/103536550/191371466-54e38a70-05f4-441b-a3a4-a720ebadaf2a.mp4
+
+
+## get routes for category, tag, product all and by id
+
+
+https://user-images.githubusercontent.com/103536550/191371508-6c53cbda-861a-4c24-9867-4e63b4fb44d4.mp4
+
+## post put and delete routes for Categories
+
+
+https://user-images.githubusercontent.com/103536550/191371542-70d4e03a-99da-4f6c-9fd8-a00b6b26ee4a.mp4
+
+## post put and delete routes for Tags
+
+https://user-images.githubusercontent.com/103536550/191371570-6c4aefa1-74da-42e5-a5a3-298cb4bb83ff.mp4
+
+## post put and delete routes for Products
+
+
+https://user-images.githubusercontent.com/103536550/191371633-931a86ff-3a2c-4917-8f6d-19556059aa72.mp4
 
 
 
